@@ -157,19 +157,6 @@ Built a document retrieval system replacing manual search across legacy records 
 
 <br/>
 
-## 🌊 Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS-Certified-0F766E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-Certified-0D9488?style=flat-square&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPTEL-Certified-14B8A6?style=flat-square&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-Certified-2DD4BF?style=flat-square&logo=cisco&logoColor=white"/>
-
-</div>
-
-<br/>
-
 ## 🌊 Coding Profiles
 
 <div align="center">
@@ -187,10 +174,10 @@ Built a document retrieval system replacing manual search across legacy records 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pavan67u&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0B1120&title_color=2DD4BF&icon_color=5EEAD4&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan67u&theme=chartreuse-dark&hide_border=true&background=0B1120&ring=2DD4BF&fire=5EEAD4&currStreakLabel=5EEAD4" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pavan67u&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=2DD4BF&icon_color=5EEAD4&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan67u&theme=tokyonight&hide_border=true&background=0B1120&ring=2DD4BF&fire=5EEAD4&currStreakLabel=5EEAD4" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan67u&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0B1120&title_color=2DD4BF&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan67u&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=2DD4BF&text_color=c9d1d9" width="49%"/>
 
 </div>
 
@@ -200,7 +187,7 @@ Built a document retrieval system replacing manual search across legacy records 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pavan67u&theme=algolia&no-frame=true&row=1&column=7&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Pavan67u&theme=onedark&no-frame=true&row=1&column=7&margin-w=8"/>
 
 </div>
 
